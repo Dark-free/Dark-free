@@ -30,9 +30,16 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.paypal.me/freesoul007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-📈 **My GitHub Stats:**
+<br/>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dark-free&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-free&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<a href="https://github.com/dark-free">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dark-free&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Where find me: </h3> 
+
+[![Gmail Badge](https://img.shields.io/badge/-emchaouki@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enchaouki@gmail.com)](mailto:emchaouki@gmail.com)
+[![GitHub Vitor]( https://img.shields.io/github/followers/V1t0rrr?label=follow&style=social)](https://github.com/dark-free)
+
