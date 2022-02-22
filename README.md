@@ -42,4 +42,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Gmail Badge](https://img.shields.io/badge/-emchaouki@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enchaouki@gmail.com)](mailto:emchaouki@gmail.com)
 [![GitHub Vitor]( https://img.shields.io/github/followers/dark-free?label=follow&style=social)](https://github.com/dark-free)
-
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-free&theme=dark"/></p>
